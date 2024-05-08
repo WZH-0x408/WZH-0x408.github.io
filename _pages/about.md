@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate from [Department of Electronic Engineering(EE)，Tsinghua University](https://www.ee.tsinghua.edu.cn/). My research interest is mainly focused on machine learning and data processing. 
+I am a third-year undergraduate from [Department of Electronic Engineering(EE)，Tsinghua University](https://www.ee.tsinghua.edu.cn/). 
+My research interest is mainly focused on machine learning and data processing. 
 You can find my CV at [Wang Zihan's CV](../files/WZH_CV.pdf). Follow [link](https://github.com/WZH-0x408) to my GitHub account. 
 
