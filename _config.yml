@@ -12,9 +12,9 @@ title                    : "Zihan Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://WZH-0x408.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wzh-0x408.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://WZH-0x408.github.io"
+repository               : "https://github.com/WZH-0x408/WZH-0x408.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
