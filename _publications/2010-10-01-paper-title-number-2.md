@@ -1,7 +1,7 @@
 ---
 title: "Project: Anomaly detection in Encrypted Network Traffic"
 collection: publications
-date: 2024-01
+date: 2024-01-20
 permalink: /publication/Anomaly_Detection_Encrypted_Traffic
 paperurl: 'https://github.com/WZH-0x408/ET-BERT_reproduce/tree/main'
 ---
