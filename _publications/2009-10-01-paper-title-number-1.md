@@ -1,7 +1,7 @@
 ---
 title: "NSCSCC2023（第七届“龙芯杯”）"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/NSCSCC2023
 paperurl: 'https://github.com/WZH-0x408/NSCSCC2023'
 ---
 
