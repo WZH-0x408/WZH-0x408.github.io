@@ -2,8 +2,8 @@
 title: "Project: Anomaly detection in Encrypted Network Traffic"
 collection: publications
 date: 2024-01-20
-permalink: /publication/Anomaly_Detection_Encrypted_Traffic
-paperurl: 'https://github.com/WZH-0x408/ET-BERT_reproduce/tree/main'
+permalink: /publication/ADET
+paperurl: 'https://github.com/WZH-0x408/ET-BERT_reproduce/'
 ---
 
 The project aims to find a novel approach to identify differences in encrypted network traffic from different sources(apps, websites, proxies, etc.) and find a novel approach to effectively classify them. The project expects to leverage machine learning methods to generate embeddings from raw encrypted traffic for effective classification.
