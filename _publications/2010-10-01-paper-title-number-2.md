@@ -2,7 +2,7 @@
 title: "Project: Anomaly detection in Encrypted Network Traffic"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://github.com/WZH-0x408/ET-BERT_reproduce/tree/main'
 ---
 
 The project aims to find a novel approach to identify differences in encrypted network traffic from different sources(apps, websites, proxies, etc.) and find a novel approach to effectively classify them. The project expects to leverage machine learning methods to generate embeddings from raw encrypted traffic for effective classification.
