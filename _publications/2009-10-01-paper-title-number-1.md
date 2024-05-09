@@ -1,7 +1,7 @@
 ---
 title: "NSCSCC2023（第七届“龙芯杯”）"
 collection: publications
-date: 2023-05
+date: 2023-05-01
 permalink: /publication/NSCSCC2023
 paperurl: 'https://github.com/WZH-0x408/NSCSCC2023'
 ---
