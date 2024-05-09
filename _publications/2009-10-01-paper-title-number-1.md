@@ -2,7 +2,7 @@
 title: "NSCSCC2023"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2023.05-2023.08
+date: 2023-05
 paperurl: 'https://github.com/WZH-0x408/NSCSCC2023'
 ---
 
